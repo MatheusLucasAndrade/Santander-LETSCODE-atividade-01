@@ -2,6 +2,6 @@
 
 ---
 
-##### **Atividade 01**
+##### **Atividade 02**
 
-**	****Desenvolver um layout simples utilizando HTML semântico e CSS FLEXBOX. **
+**	****Atualizar o Layout da atividade 1 utilizando o Bootstrap 5. **
