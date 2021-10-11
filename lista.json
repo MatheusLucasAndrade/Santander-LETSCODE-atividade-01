@@ -1,0 +1,144 @@
+[
+   {
+      "Nome":"Belinha",
+      "Detalhes":"Dócil, amigavel e carinhoso",
+      "Localidade":"São Paulo",
+      "Imagem": "./img/cachorros/dog-5.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Ronaldo",
+      "Detalhes":"Dócil, idoso e banguelo",
+      "Localidade":"Belo horizonte",
+      "Imagem": "./img/cachorros/dog-6.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Cascão",
+      "Detalhes":"Sorridente, dócil e carinhoso",
+      "Localidade":"Piauí",
+      "Imagem": "./img/cachorros/dog-7.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Soninho",
+      "Detalhes":"Dorminhoco, idoso e quieto",
+      "Localidade":"Rio de Janeiro",
+      "Imagem": "./img/cachorros/dog-8.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Relâmpago",
+      "Detalhes":"Limpinho, sorridente e dorminhoco",
+      "Localidade":"Rio Grande do Sul",
+      "Imagem": "./img/cachorros/dog-9.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Baby",
+      "Detalhes":"Carinhoso, dócil e preguiçoso",
+      "Localidade":"Piauí",
+      "Imagem": "./img/cachorros/dog-10.jpeg",
+      "Tipo": "Cachorro"
+
+   },
+   {
+      "Nome":"Caramelo",
+      "Detalhes":"Dócil, dócio e dócio",
+      "Localidade":"Acre",
+      "Imagem": "./img/cachorros/dog-11.jpeg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Preguiça",
+      "Detalhes":"Preguiçoso, Amigável e dominhoco",
+      "Localidade":"Bahia",
+      "Imagem": "./img/cachorros/dog-12.jpg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Xodó",
+      "Detalhes":"Bravo, inquieto e bagunçeiro",
+      "Localidade":"São Paulo",
+      "Imagem": "./img/cachorros/dog-13.jpg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Judo",
+      "Detalhes":"Lutador, dócil e guardião",
+      "Localidade":"Rio de Janeiro",
+      "Imagem": "./img/cachorros/dog-14.jpg",
+      "Tipo": "Cachorro"
+   },
+   {
+      "Nome":"Julio",
+      "Detalhes":"Bravo, dominhoco e bagunçeiro",
+      "Localidade":"São Paulo",
+      "Imagem": "./img/gatos/cat-4.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Xamps",
+      "Detalhes":"Inquieto, bagunçeiro e carinhoso",
+      "Localidade":"Rio Grande do Norte",
+      "Imagem": "./img/gatos/cat-5.jpg",
+      "Tipo": "Gato"
+   },
+   {      
+      "Nome":"Xodó",
+      "Detalhes":"Bravo, inquieto e bagunçeiro",
+      "Localidade":"Brasilia",
+      "Imagem": "./img/gatos/cat-6.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Marlon",
+      "Detalhes":"Banguelo, idoso e dorminhoco",
+      "Localidade":"Ceará",
+      "Imagem": "./img/gatos/cat-7.jpg",
+      "Tipo": "Gato"
+
+   },
+   {
+      "Nome":"Maristrali",
+      "Detalhes":"Dócil, brincalhão e inquieto",
+      "Localidade":"Rondônia",
+      "Imagem": "./img/gatos/cat-8.jpg",
+      "Tipo": "Gato"     
+   },
+   {
+      "Nome":"Ratão",
+      "Detalhes":"Dominhoco, brincalhão e dócil",
+      "Localidade":"Roraima",
+      "Imagem": "./img/gatos/cat-9.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Piquinéia",
+      "Detalhes":"Bravo, brincalhão e inquieto",
+      "Localidade":"Amazonas",
+      "Imagem": "./img/gatos/cat-10.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Aisha",
+      "Detalhes":"Dócil, dominhoco e bricalhão",
+      "Localidade":"Mato Grosso",
+      "Imagem": "./img/gatos/cat-11.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Judite",
+      "Detalhes":"Dominhoco, quieto e dócil",
+      "Localidade":"Santa Catarina",
+      "Imagem": "./img/gatos/cat-12.jpg",
+      "Tipo": "Gato"
+   },
+   {
+      "Nome":"Tuca",
+      "Detalhes":"Bravo, inquieto e bagunçeiro",
+      "Localidade":"Sergipe",
+      "Imagem": "./img/gatos/cat-13.jpg",
+      "Tipo": "Gato"
+   }
+]
